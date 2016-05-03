@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="send_intent">Send Intent</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
